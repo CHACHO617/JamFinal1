@@ -21,13 +21,13 @@ public class GameManager : MonoBehaviour
     public void Level3()
     {
         Debug.Log("Entraste al juego");
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Level3");
     }
 
     public void Level4()
     {
         Debug.Log("Entraste al juego");
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Level4");
     }
 
 
