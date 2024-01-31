@@ -174,8 +174,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 0.006649971, y: -0.0025999546, z: 0}
-    m_Extent: {x: 5.50145, y: 5.5031004, z: 0}
+    m_Center: {x: 0.003250122, y: 0.0047500134, z: 0}
+    m_Extent: {x: 5.50595, y: 5.50445, z: 0}
   m_PointLightInnerAngle: 0
   m_PointLightOuterAngle: 359.99997
   m_PointLightInnerRadius: 1
@@ -6115,8 +6115,8 @@ MonoBehaviour:
   - {x: 4.6875, y: 4, z: 0}
   - {x: 4.6875, y: -4.0000005, z: 0}
   m_ShapePathHash: 0
-  m_Mesh: {fileID: 2050147228}
-  m_InstanceId: 44622
+  m_Mesh: {fileID: 2037747977}
+  m_InstanceId: 66398
   m_LocalBounds:
     m_Center: {x: 0, y: -0.00000047683716, z: 0}
     m_Extent: {x: 4.6875, y: 4, z: 0}
@@ -6922,7 +6922,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Explosion: {fileID: 2388016179844377187, guid: 8cc3e126dfb65284eb1d29545c427182, type: 3}
---- !u!43 &2050147228
+--- !u!43 &2037747977
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
